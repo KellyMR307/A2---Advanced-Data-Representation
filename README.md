@@ -35,6 +35,6 @@ for main.c - I used  https://post.bytes.com/forum/topic/c/585817-how-to-parse-a-
 
 #Test results 
 this time I was successfully able to run the testfile on my functions but I would say this took me a long time to get to work because I kept getting many errors and needed to update my code
-Most of the tests were successful I was able to get 49/52 test to succesfully pass but 3 of them failed. I also was able to store it in output.txt file this time too which shows the full result and tests ran
+Most of the tests were successful I was able to get 49/51 test to succesfully pass but 2 of them failed and they were both from oct_to_hex function. I also was able to store it in output.txt file this time too which shows the full result and tests ran
 
 
